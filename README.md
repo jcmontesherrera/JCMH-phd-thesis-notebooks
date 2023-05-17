@@ -1,6 +1,9 @@
 # JCMH-PhD-Thesis-notebooks
 Notebooks and scripts created during the course of PhD research chapters.<br>
+
+## Citations
 [![DOI](https://zenodo.org/badge/641737027.svg)](https://zenodo.org/badge/latestdoi/641737027)
+- Montes-Herrera, J.C. 2023. PhD Thesis notebooks for structure-from-motion photogrammetry and hyperspectral imaging. DOI: 10.5281/zenodo.7943515
 
 ## Contact
 J.C. Montes-Herrera
@@ -23,7 +26,7 @@ sfm-photogrammetry, imaging-spectroscopy, hyperspectral-imaging, underwater-hype
 ## Project Data or Deliverables
 - Python Jupyter notebooks for image processing and analysis
 
-## Citations
+## Publications
 - Montes-Herrera, J. C., Cimoli, E., Cummings, V., Hill, N., Lucieer, A., Lucieer, V. 2021. Underwater Hyperspectral Imaging (UHI): A Review of Systems and Applications for Proximal Seafloor Ecosystem Studies. Remote Sensing. 13 (17), 3451. https://doi.org/10.3390/rs13173451
 
 - Montes-Herrera, J.C., Hill, N., Cummings, V.J., Johnstone, G., Stark, J.S., Lucieer, V. (accepted). Remote sensing of Antarctic polychaete reefs: Reproducible workflows for quantifying benthic structural complexity with action cameras, remotely operated vehicles, and structure-from-motion photogrammetry. *Remote Sensing in Ecology and Conservation*
