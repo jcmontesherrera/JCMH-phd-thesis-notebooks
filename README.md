@@ -1,5 +1,6 @@
 # JCMH-PhD-Thesis-notebooks
 Notebooks and scripts created during the course of PhD research chapters.
+[![DOI](https://zenodo.org/badge/641737027.svg)](https://zenodo.org/badge/latestdoi/641737027)
 
 ## Contact
 J.C. Montes-Herrera
