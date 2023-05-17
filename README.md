@@ -1,7 +1,7 @@
 # JCMH-PhD-Thesis-notebooks
 Notebooks and scripts created during the course of PhD research chapters.<br>
 
-## Citations
+## How to cite
 [![DOI](https://zenodo.org/badge/641737027.svg)](https://zenodo.org/badge/latestdoi/641737027)
 - Montes-Herrera, J.C. 2023. PhD Thesis notebooks for structure-from-motion photogrammetry and hyperspectral imaging. DOI: 10.5281/zenodo.7943515
 
