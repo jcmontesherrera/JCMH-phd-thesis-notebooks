@@ -5,7 +5,7 @@ Notebooks and scripts created during the course of PhD research chapters.<br>
 - Montes-Herrera, J.C. 2023. Notebooks for marine benthos structure-from-motion photogrammetry, hyperspectral imaging and biodiversity mapping.
 DOI: 10.5281/zenodo.7943572
 <br>
-[![DOI](https://zenodo.org/badge/641737027.svg)](https://zenodo.org/badge/latestdoi/641737027)
+![DOI](https://zenodo.org/badge/641737027.svg)](https://zenodo.org/badge/latestdoi/641737027)
 
 ## Contact
 J.C. Montes-Herrera
