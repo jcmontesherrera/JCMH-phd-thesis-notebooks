@@ -1,4 +1,4 @@
-# JCMH-phd-thesis-notebooks
+# JCMH-PhD-Thesis-notebooks
 Notebooks and scripts created during the course of PhD research chapters.
 
 ## Contact
