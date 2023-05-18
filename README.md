@@ -2,7 +2,7 @@
 Notebooks and scripts created during the course of PhD research chapters.<br>
 
 ## How to cite
-- Montes-Herrera, J.C. 2023. Notebooks for marine benthos structure-from-motion photogrammetry, hyperspectral imaging and biodiversity mapping.
+- Montes-Herrera, J.C. 2023. Benthic biologist's digital field log: Notebooks for biodiversity mapping with structure-from-motion photogrammetry and hyperspectral imaging.
 
 ## Contact
 J.C. Montes-Herrera
